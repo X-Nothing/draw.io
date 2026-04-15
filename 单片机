@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="u8Bj41CqhdmnulFUI4Vz">
+    <mxGraphModel dx="1046" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TPA5vl40Rg-pfeCye1ju-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="开始" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TPA5vl40Rg-pfeCye1ju-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="初始化" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TPA5vl40Rg-pfeCye1ju-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="进入主循环" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="TPA5vl40Rg-pfeCye1ju-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="读取温度值" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TPA5vl40Rg-pfeCye1ju-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="220" x="280" y="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
